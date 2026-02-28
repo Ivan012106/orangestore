@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [28/Feb/2026:10:20:20 +0000] "GET /orangestore/users-jdbc HTTP/1.1" 200 386 http-bio-8080-exec-1 669
+0:0:0:0:0:0:0:1 - - [28/Feb/2026:10:20:20 +0000] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
