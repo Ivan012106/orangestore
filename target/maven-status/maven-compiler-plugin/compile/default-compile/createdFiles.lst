@@ -1,5 +1,7 @@
-ua/edu/nung/fit/HelloServlet.class
 ua/edu/nung/fit/UserServlet.class
 ua/edu/nung/fit/UserDAO.class
 ua/edu/nung/fit/JdbcServlet.class
+ua/edu/nung/fit/OrangeStoreApplication.class
+ua/edu/nung/fit/HelloServlet.class
+ua/edu/nung/fit/UserResource.class
 ua/edu/nung/fit/User.class
